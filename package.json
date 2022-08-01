@@ -1,0 +1,11 @@
+{
+  "name": "averagebot",
+  "version": "1.0.0",
+  "description": "<img src=\"https://i.imgur.com/yg3BYh4.png\" align=\"right\"      alt=\"Size Limit logo by Anton Lovchikov\" width=\"120\" height=\"120\">",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
